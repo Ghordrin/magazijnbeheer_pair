@@ -1,0 +1,319 @@
+DATE OF MOVEMENT: 20200520
+Book:
+	Critical: 167; LOW: 335; HIGH: 906;
+	Current stock: 1101
+	Status: NORMAL
+
+--> Removed x262 Book.
+
+--> Relocated x839 Book instead of 889.
+
+--> Status CRITICAL! Didn't remove anything.
+
+--> Produced x334 Book.
+
+-----> Status: LOW! Need to produce/buy soon! <-----
+--> Sold x334 Book instead of 396.
+
+--> Status CRITICAL! Didn't sell anything.
+
+--> Status CRITICAL! Didn't sell anything.
+
+
+<><><>--------------------<><><>
+
+Chair:
+	Critical: 98; LOW: 197; HIGH: 819;
+	Current stock: 399
+	Status: NORMAL
+
+--> Bought x420 Chair instead of 537.
+
+--> Status HIGH! Didn't produce anything.
+
+--> Sold x100 Chair.
+
+--> Produced x100 Chair instead of 296.
+
+--> Status HIGH! Didn't buy anything.
+
+--> Status HIGH! Didn't produce anything.
+
+--> Removed x140 Chair.
+
+
+<><><>--------------------<><><>
+
+Desk:
+	Critical: 199; LOW: 399; HIGH: 847;
+	Current stock: 541
+	Status: NORMAL
+
+--> Relocated x462 Desk.
+
+--> Status CRITICAL! Didn't sell anything.
+
+--> Status CRITICAL! Didn't remove anything.
+
+--> Bought x370 Desk.
+
+--> Produced x296 Desk.
+
+--> Bought x102 Desk instead of 606.
+
+--> Sold x753 Desk.
+
+--> Bought x408 Desk.
+
+--> Sold x456 Desk.
+
+--> Produced x800 Desk.
+
+
+<><><>--------------------<><><>
+
+Glass:
+	Critical: 154; LOW: 308; HIGH: 873;
+	Current stock: 919
+	Status: NORMAL
+
+--> Sold x252 Glass.
+
+--> Sold x79 Glass.
+
+--> Produced x285 Glass instead of 286.
+
+--> Status HIGH! Didn't produce anything.
+
+--> Relocated x70 Glass.
+
+--> Relocated x380 Glass.
+
+--> Bought x450 Glass instead of 571.
+
+--> Sold x287 Glass.
+
+--> Bought x258 Glass.
+
+--> Sold x844 Glass instead of 873.
+
+
+<><><>--------------------<><><>
+
+Laptop:
+	Critical: 78; LOW: 157; HIGH: 777;
+	Current stock: 933
+	Status: NORMAL
+
+--> Produced x-156 Laptop instead of 706.
+
+--> Sold x521 Laptop.
+
+--> Removed x127 Laptop.
+
+-----> Status: LOW! Need to produce/buy soon! <-----
+--> Relocated x129 Laptop instead of 224.
+
+--> Status CRITICAL! Didn't relocate anything.
+
+
+<><><>--------------------<><><>
+
+Monitor:
+	Critical: 34; LOW: 69; HIGH: 878;
+	Current stock: 735
+	Status: NORMAL
+
+--> Sold x226 Monitor.
+
+--> Removed x371 Monitor.
+
+--> Removed x138 Monitor instead of 156.
+
+--> Status CRITICAL! Didn't remove anything.
+
+--> Status CRITICAL! Didn't sell anything.
+
+--> Status CRITICAL! Didn't remove anything.
+
+--> Status CRITICAL! Didn't remove anything.
+
+
+<><><>--------------------<><><>
+
+Mouse:
+	Critical: 112; LOW: 225; HIGH: 820;
+	Current stock: 619
+	Status: NORMAL
+
+--> Produced x201 Mouse instead of 653.
+
+--> Sold x144 Mouse.
+
+--> Removed x230 Mouse.
+
+--> Relocated x348 Mouse.
+
+--> Produced x235 Mouse.
+
+--> Produced x311 Mouse.
+
+
+<><><>--------------------<><><>
+
+Razor:
+	Critical: 76; LOW: 152; HIGH: 937;
+	Current stock: 194
+	Status: NORMAL
+
+--> Sold x194 Razor instead of 434.
+
+--> Status CRITICAL! Didn't relocate anything.
+
+--> Status CRITICAL! Didn't relocate anything.
+
+--> Status CRITICAL! Didn't sell anything.
+
+--> Bought x885 Razor.
+
+--> Removed x98 Razor.
+
+--> Removed x787 Razor instead of 844.
+
+--> Bought x254 Razor.
+
+--> Produced x122 Razor.
+
+--> Relocated x11 Razor.
+
+
+<><><>--------------------<><><>
+
+Xbox:
+	Critical: 181; LOW: 362; HIGH: 941;
+	Current stock: 1132
+	Status: NORMAL
+
+--> Sold x798 Xbox.
+
+--> Bought x406 Xbox.
+
+--> Relocated x740 Xbox instead of 882.
+
+--> Status CRITICAL! Didn't sell anything.
+
+--> Status CRITICAL! Didn't sell anything.
+
+--> Produced x64 Xbox.
+
+--> Produced x98 Xbox.
+
+
+<><><>--------------------<><><>
+
+Book:
+	Critical: 167; LOW: 335; HIGH: 906;
+	Current stock: 0
+	Status: CRITICAL
+		OUT.REMOVE: 262; has happened: true
+		OUT.RELOCATE: 839; has happened: true
+		OUT.REMOVE: 326; has happened: false
+		IN.PRODUCE: 334; has happened: true
+		OUT.SELL: 334; has happened: true
+		OUT.SELL: 821; has happened: false
+		OUT.SELL: 408; has happened: false
+Chair:
+	Critical: 98; LOW: 197; HIGH: 819;
+	Current stock: 679
+	Status: NORMAL
+		IN.BUY: 420; has happened: true
+		IN.PRODUCE: 280; has happened: false
+		OUT.SELL: 100; has happened: true
+		IN.PRODUCE: 100; has happened: true
+		IN.BUY: 318; has happened: false
+		IN.PRODUCE: 511; has happened: false
+		OUT.REMOVE: 140; has happened: true
+Desk:
+	Critical: 199; LOW: 399; HIGH: 847;
+	Current stock: 846
+	Status: NORMAL
+		OUT.RELOCATE: 462; has happened: true
+		OUT.SELL: 366; has happened: false
+		OUT.REMOVE: 41; has happened: false
+		IN.BUY: 370; has happened: true
+		IN.PRODUCE: 296; has happened: true
+		IN.BUY: 102; has happened: true
+		OUT.SELL: 753; has happened: true
+		IN.BUY: 408; has happened: true
+		OUT.SELL: 456; has happened: true
+		IN.PRODUCE: 800; has happened: true
+Glass:
+	Critical: 154; LOW: 308; HIGH: 873;
+	Current stock: 0
+	Status: CRITICAL
+		OUT.SELL: 252; has happened: true
+		OUT.SELL: 79; has happened: true
+		IN.PRODUCE: 285; has happened: true
+		IN.PRODUCE: 540; has happened: false
+		OUT.RELOCATE: 70; has happened: true
+		OUT.RELOCATE: 380; has happened: true
+		IN.BUY: 450; has happened: true
+		OUT.SELL: 287; has happened: true
+		IN.BUY: 258; has happened: true
+		OUT.SELL: 844; has happened: true
+Laptop:
+	Critical: 78; LOW: 157; HIGH: 777;
+	Current stock: 0
+	Status: CRITICAL
+		IN.PRODUCE: -156; has happened: true
+		OUT.SELL: 521; has happened: true
+		OUT.REMOVE: 127; has happened: true
+		OUT.RELOCATE: 129; has happened: true
+		OUT.RELOCATE: 621; has happened: false
+Monitor:
+	Critical: 34; LOW: 69; HIGH: 878;
+	Current stock: 0
+	Status: CRITICAL
+		OUT.SELL: 226; has happened: true
+		OUT.REMOVE: 371; has happened: true
+		OUT.REMOVE: 138; has happened: true
+		OUT.REMOVE: 146; has happened: false
+		OUT.SELL: 283; has happened: false
+		OUT.REMOVE: 666; has happened: false
+		OUT.REMOVE: 812; has happened: false
+Mouse:
+	Critical: 112; LOW: 225; HIGH: 820;
+	Current stock: 644
+	Status: NORMAL
+		IN.PRODUCE: 201; has happened: true
+		OUT.SELL: 144; has happened: true
+		OUT.REMOVE: 230; has happened: true
+		OUT.RELOCATE: 348; has happened: true
+		IN.PRODUCE: 235; has happened: true
+		IN.PRODUCE: 311; has happened: true
+Razor:
+	Critical: 76; LOW: 152; HIGH: 937;
+	Current stock: 365
+	Status: NORMAL
+		OUT.SELL: 194; has happened: true
+		OUT.RELOCATE: 863; has happened: false
+		OUT.RELOCATE: 580; has happened: false
+		OUT.SELL: 632; has happened: false
+		IN.BUY: 885; has happened: true
+		OUT.REMOVE: 98; has happened: true
+		OUT.REMOVE: 787; has happened: true
+		IN.BUY: 254; has happened: true
+		IN.PRODUCE: 122; has happened: true
+		OUT.RELOCATE: 11; has happened: true
+Xbox:
+	Critical: 181; LOW: 362; HIGH: 941;
+	Current stock: 162
+	Status: CRITICAL
+		OUT.SELL: 798; has happened: true
+		IN.BUY: 406; has happened: true
+		OUT.RELOCATE: 740; has happened: true
+		OUT.SELL: 213; has happened: false
+		OUT.SELL: 456; has happened: false
+		IN.PRODUCE: 64; has happened: true
+		IN.PRODUCE: 98; has happened: true
+Class transformation time: 0.0152379s for 453 classes or 3.363774834437086E-5s per class

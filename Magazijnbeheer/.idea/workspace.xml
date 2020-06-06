@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba8f63a2-7c09-4306-8799-b0aac2562e6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c7sOf9xFzGvigx8xAZtiywj6GT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Warehouse">
+    <configuration name="Warehouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntra.tristanyannick.model.main.Warehouse" />
+      <module name="Magazijnbeheer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntra.tristanyannick.model.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProductFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magazijnbeheer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntra.tristanyannick.tests.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syntra.tristanyannick.tests.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.syntra.tristanyannick.tests.junit.TestProductFactory" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magazijnbeheer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntra.tristanyannick.tests.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syntra.tristanyannick.tests.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.syntra.tristanyannick.tests.junit.TestStatus" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStockMovement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magazijnbeheer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntra.tristanyannick.tests.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syntra.tristanyannick.tests.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.syntra.tristanyannick.tests.junit.TestStockMovement" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStockMovementFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magazijnbeheer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntra.tristanyannick.tests.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syntra.tristanyannick.tests.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.syntra.tristanyannick.tests.junit.TestStockMovementFactory" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Warehouse" />
+        <item itemvalue="JUnit.TestStockMovementFactory" />
+        <item itemvalue="JUnit.TestProductFactory" />
+        <item itemvalue="JUnit.TestStatus" />
+        <item itemvalue="JUnit.TestStockMovement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba8f63a2-7c09-4306-8799-b0aac2562e6e" name="Default Changelist" comment="" />
+      <created>1589890935564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589890935564</updated>
+      <workItem from="1589890938136" duration="5093000" />
+      <workItem from="1589910645656" duration="7242000" />
+      <workItem from="1589969504246" duration="14665000" />
+      <workItem from="1589993088987" duration="962000" />
+      <workItem from="1590060546903" duration="24000" />
+      <workItem from="1590430638294" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="293" key="#xdebugger.XInspectDialog" timestamp="1589980725459">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="788" y="293" key="#xdebugger.XInspectDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589980725459" />
+    <state x="775" y="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589994048054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="775" y="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589994048054" />
+    <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1589988731557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1680.-148.1680.1010@0.0.1920.1040" timestamp="1589890954716" />
+    <state x="740" y="287" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589988731557" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1589994051127">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.-148.1680.1010@0.0.1920.1040" timestamp="1589896036276" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589994051127" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1589994051126">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.-148.1680.1010@0.0.1920.1040" timestamp="1589896036276" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589994051126" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1589994051126">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.-148.1680.1010@0.0.1920.1040" timestamp="1589896036276" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589994051126" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1589994051127">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.-148.1680.1010@0.0.1920.1040" timestamp="1589896036276" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589994051127" />
+    <state x="461" y="183" key="SettingsEditor" timestamp="1589994010995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="183" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589994010995" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1590060547296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1590060547296" />
+    <state x="664" y="430" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589969966043">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1680.-148.1680.1010@0.0.1920.1040" timestamp="1589893795823" />
+    <state x="664" y="430" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589969966043" />
+    <state x="656" y="138" width="607" height="804" key="find.popup" timestamp="1589986466924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="138" width="607" height="804" key="find.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589986466924" />
+    <state x="342" y="161" key="new project wizard" timestamp="1590430729501">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="161" key="new project wizard/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1590430729501" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1589989107599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589989107599" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589978358692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1589978358692" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="StockMovement.values()" />
+        <watch expression="NUMBER_OF_PRODUCT_CLASSES" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Magazijnbeheer$Warehouse.ic" NAME="Warehouse Coverage Results" MODIFIED="1589993739700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.syntra.tristanyannick.model.main.*</FILTER>
+    </SUITE>
+  </component>
+</project>

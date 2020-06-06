@@ -1,0 +1,6 @@
+com.syntra.tristanyannick.factories
+com.syntra.tristanyannick.model.main
+com.syntra.tristanyannick.model.products
+com.syntra.tristanyannick.model.statuses
+com.syntra.tristanyannick.model.stock
+com.syntra.tristanyannick.tests.junit
